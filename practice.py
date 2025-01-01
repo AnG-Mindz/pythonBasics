@@ -38,13 +38,6 @@ def get_first_three(lst):
 
 print(get_first_three([10, 20, 30, 40, 50]))
 
-# ## Solution 3: List Comprehension
-# # Create a new list with squares of all numbers in a given list.
-# def square_numbers(lst):
-#     '''Create a new list with squares of all numbers in a given list.'''
-#     return [x**2 for x in lst]
-
-# print(square_numbers([1, 2, 3, 4, 5]))
 
 # 3. Loops
 ## Solution 1: For Loop
